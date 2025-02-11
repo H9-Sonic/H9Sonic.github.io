@@ -6,14 +6,20 @@ website:
   navbar:
     right:
       - about.qmd
+      - icon: bluesky
+        text: BlueSky
+        href: https://bsky.app/
       - icon: github
+        text: Github
         href: https://github.com/
       - icon: twitter
+        text: Twitter
         href: https://twitter.com
+      
 format:
   html:
     theme:
-      - cosmo
+      - solar
       - brand
     css: styles.css
 

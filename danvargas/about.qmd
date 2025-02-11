@@ -3,7 +3,6 @@ title: "About Me"
 image: profile.jpg
 about:
   template: jolla
-  theme: solar
   links:
     - icon: twitter
       text: Twitter
