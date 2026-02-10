@@ -4,7 +4,7 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: linkedins
+    - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
     - icon: github
