@@ -16,4 +16,4 @@ about:
 
 ---
 
-Hello
+Daniel Vargas - CS Game Design at Florida Polytechnic University
